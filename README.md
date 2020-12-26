@@ -8,6 +8,7 @@
 
 
 @RestController
+
 @RequestMapping("api") --> localhos:8080/api
 @Getmapping("/getParameter") --> localhost/api/getParameter
 @RequestParam --> 파라미터 설정
