@@ -11,8 +11,10 @@
 3.SDK 
 
 
+* Socket, Http 통신 --> HTTP사용
+* HTTP -> GET Method -> 주소에 파라미터 노출
 
-* GetMethod in Spring Boot
+* GETMethod in Spring Boot
 
 
 @RestController
