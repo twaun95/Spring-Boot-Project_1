@@ -12,7 +12,7 @@
 
 
 
-* GetMethod
+* GetMethod in Spring Boot
 
 
 @RestController
