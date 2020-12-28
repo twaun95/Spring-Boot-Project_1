@@ -14,7 +14,7 @@
 * Socket, Http 통신 --> HTTP사용
 * HTTP -> GET Method -> 주소에 파라미터 노출
 
-* GETMethod in Spring Boot
+* GET Method(주소창에 파라미터 노출)
 
 
 @RestController
@@ -26,3 +26,7 @@
 @RequestParam --> 파라미터 설정
 
 @RequestParam(name=" ") --> 파라미터 이름 설정
+
+
+* POST Method(주소창에 파라미터 노출X)
+
